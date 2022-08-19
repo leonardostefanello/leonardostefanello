@@ -5,7 +5,7 @@
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBScorpion&show_icons=true&theme=dracula)
 
 # Experience
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBScorpion&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBScorpion&layout=compact)](https://github.com/leonardostefanello/leonardostefanello)
 
 
 <!--
