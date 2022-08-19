@@ -1,4 +1,12 @@
-### Hi there 👋
+# Welcome ✨
+[![](https://img.shields.io/badge/Profile-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardo-basso-stefanello-1929aa218/) [![](https://img.shields.io/badge/Follow%20Me-Instagram-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/leonardo_basstef/)
+
+# Stats
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBScorpion&show_icons=true&theme=dracula)
+
+# Experience
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBScorpion&layout=compact)
+
 
 <!--
 **leonardostefanello/leonardostefanello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
