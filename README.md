@@ -42,13 +42,16 @@
 </a>
 </p>
 
+
+<!--
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=leonardostefanello&theme=dracula&row=2&column=-1&no-frame=true"></a>
 </p>
+-->
+
 
 
 <h2 align='left'></h2>
-
 <h3 align='left'>💻 Linguagens / Languages</h3>
 <p aign="center">
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
