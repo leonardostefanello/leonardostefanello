@@ -16,7 +16,7 @@
 
 - 🔭 &nbsp; Procurando um emprego;
 - 🌱 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na Unisul;
-- 🔧 &nbsp; Maior parte dos meus projetos e testes que faço estão disponiveis em [Respositórios](https://github.com/rahul-jha98?tab=repositories);
+- 🔧 &nbsp; Maior parte dos meus projetos e testes que faço estão disponiveis em [Respositórios](https://github.com/leonardostefanello?tab=repositoriess);
 - 🎮 &nbsp; Quando estou livre gosto de passar o tempo jogando games ou assistindo séries/filmes;
 </br>
 
@@ -26,7 +26,7 @@
 
 - 🔭 &nbsp; Looking for a job;
 - 🌱 &nbsp; Studying **System Analysis and Development** at Unisul;
-- 🔧 &nbsp; Most of my projects and tests that I do are available at [Repositories](https://github.com/rahul-jha98?tab=repositories);
+- 🔧 &nbsp; Most of my projects and tests that I do are available at [Repositories](https://github.com/leonardostefanello?tab=repositories);
 - 🎮 &nbsp; When I'm free I like to spend time playing games or watching series/movies;
 </br>
 
