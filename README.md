@@ -42,6 +42,9 @@
 </a>
 </p>
 
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=leonardostefanello&theme=dracula&row=2&column=-1&no-frame=true"></a>
+</p>
 
 
 <h2 align='left'></h2>
@@ -71,7 +74,6 @@
 
 
 <h2 align='left'></h2>
-
 <p align="center">
         <img src="https://raw.githubusercontent.com/leonardostefanello/leonardostefanello/main/svg/Final.svg" alt="Github Stats" />
 </p>
