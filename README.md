@@ -43,13 +43,6 @@
 </p>
 
 
-<!--
-<p align="left">
-    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white"></a>
-</p>
--->
-
-
 
 <h2 align='left'></h2>
 <h3 align='left'>💻 Sistema Operacional / Operational System</h3>
@@ -78,9 +71,7 @@
     <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?logo=eclipseide&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepadplusplus&logoColor=white"></a>
-    <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-667881.svg?logo=replit&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
