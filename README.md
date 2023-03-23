@@ -15,7 +15,7 @@
 • Estou estudando para me tornar um _**Desenvolvedor Fullstack**_, tenho maior interesse no _Frontend_. A ideia de se tornar Fullstack surgiu não apenas porque amo programação, mas tambem porque acho importante ter um conhecimento geral. 🐶
 
 - 🔭 &nbsp; Procurando um emprego;
-- 🌱 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na Unisul _(Brasil)_;
+- 🌱 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na Unisul _(no Brasil)_;
 - 🔧 &nbsp; Maior parte dos meus projetos e testes que faço estão disponiveis em [Respositórios](https://github.com/leonardostefanello?tab=repositories);
 - 🎮 &nbsp; Quando estou livre gosto de jogar com os amigos mas tambem de continuar aprimorando meus conhecimentos, programação não é só um trabalho para mim, mas sim uma paixão;
 </br>
@@ -25,7 +25,7 @@
 • I'm studying to become a _**Fullstack Developer**_, I am most interested in the _Frontend_. The idea of becoming Fullstack came about not only because I love programming, but also because I think it's important to have a general knowledge. 🐶
 
 - 🔭 &nbsp; Looking for a job;
-- 🌱 &nbsp; Studying **System Analysis and Development** at Unisul _(Brazil)_;
+- 🌱 &nbsp; Studying **System Analysis and Development** at Unisul _(in Brazil)_;
 - 🔧 &nbsp; Most of my projects and tests that I do are available at [Repositories](https://github.com/leonardostefanello?tab=repositories);
 - 🎮 &nbsp; When I'm free I like to play with friends but also to keep improving my knowledge, programming is not just a job for me, but a passion;
 </br>
