@@ -15,7 +15,7 @@
 • Estou estudando para me tornar um _**Desenvolvedor Fullstack**_, tenho maior interesse no _Frontend_. A ideia de se tornar Fullstack surgiu não apenas porque amo programação, mas tambem porque acho importante ter um conhecimento geral. 🐶
 
 - 🔭 &nbsp; Procurando um emprego;
-- 🌱 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na Unisul _(no Brasil)_;
+- 🌱 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na Unisul _(Brasil)_;
 - 🔧 &nbsp; Maior parte dos meus projetos e testes que faço estão disponiveis em [Respositórios](https://github.com/leonardostefanello?tab=repositories);
 - 🎮 &nbsp; Quando estou livre gosto de jogar com os amigos mas tambem de continuar aprimorando meus conhecimentos, programação não é só um trabalho para mim, mas sim uma paixão;
 </br>
@@ -25,7 +25,7 @@
 • I'm studying to become a _**Fullstack Developer**_, I am most interested in the _Frontend_. The idea of becoming Fullstack came about not only because I love programming, but also because I think it's important to have a general knowledge. 🐶
 
 - 🔭 &nbsp; Looking for a job;
-- 🌱 &nbsp; Studying **System Analysis and Development** at Unisul _(in Brazil)_;
+- 🌱 &nbsp; Studying **System Analysis and Development** at Unisul _(Brazil)_;
 - 🔧 &nbsp; Most of my projects and tests that I do are available at [Repositories](https://github.com/leonardostefanello?tab=repositories);
 - 🎮 &nbsp; When I'm free I like to play with friends but also to keep improving my knowledge, programming is not just a job for me, but a passion;
 </br>
@@ -55,9 +55,10 @@
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Alua"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=mysql&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Alua"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Areact"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
  <!--
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Ajavascript"><img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-339933.svg?logo=nodedotjs&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white"></a>
