@@ -58,7 +58,7 @@
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Alua"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=mysql&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Ajavascript"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
  <!--
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Ajavascript"><img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-339933.svg?logo=nodedotjs&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aleonardostefanello+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white"></a>
