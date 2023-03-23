@@ -17,7 +17,7 @@
 - 🔭 &nbsp; Procurando um emprego;
 - 🌱 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na Unisul;
 - 🔧 &nbsp; Maior parte dos meus projetos e testes que faço estão disponiveis em [Respositórios](https://github.com/leonardostefanello?tab=repositories);
-- 🎮 &nbsp; Quando estou livre gosto de passar o tempo jogando games ou assistindo séries/filmes;
+- 🎮 &nbsp; Quando estou livre gosto de jogar com os amigos mas tambem de continuar aprimorando meus conhecimentos, programação não é só um trabalho para mim, mas sim uma paixão;
 </br>
 
 **[EN]**
@@ -27,7 +27,7 @@
 - 🔭 &nbsp; Looking for a job;
 - 🌱 &nbsp; Studying **System Analysis and Development** at Unisul;
 - 🔧 &nbsp; Most of my projects and tests that I do are available at [Repositories](https://github.com/leonardostefanello?tab=repositories);
-- 🎮 &nbsp; When I'm free I like to spend time playing games or watching series/movies;
+- 🎮 &nbsp; When I'm free I like to play with friends but also to keep improving my knowledge, programming is not just a job for me, but a passion;
 </br>
 
 
