@@ -12,7 +12,7 @@
 
 **[BR]**
 </br>
-• Estou estudando para me tornar um _**Desenvolvedor Fullstack**_, mas pretendo trabalhar em áreas específicas como _Frontend_ ou _Backend_, a ideia de fullstack é ser um profissional que, se necessário, sabe fazer tudo mesmo sem precisar fazer tudo! 🐶
+• Estou estudando para me tornar um _**Desenvolvedor Fullstack**_, tenho maior interesse no _Frontend_. A ideia de se tornar Fullstack surgiu não apenas porque amo programação, mas tambem porque acho importante ter um conhecimento geral. 🐶
 
 - 🔭 &nbsp; Procurando um emprego;
 - 🌱 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na Unisul;
@@ -22,7 +22,7 @@
 
 **[EN]**
 </br>
-• I'm studying to become a _**Fullstack Developer**_, but I intend to work in specific areas such as _Frontend_ or _Backend_, the idea of fullstack is to be a professional who, if necessary, knows how to do everything even without having to do everything! 🐶
+• I'm studying to become a _**Fullstack Developer**_, I am most interested in the _Frontend_. The idea of becoming Fullstack came about not only because I love programming, but also because I think it's important to have a general knowledge. 🐶
 
 - 🔭 &nbsp; Looking for a job;
 - 🌱 &nbsp; Studying **System Analysis and Development** at Unisul;
