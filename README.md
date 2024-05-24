@@ -1,7 +1,7 @@
 <h1 align='center'>✨<i>Welcome</i>✨</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/leonardobassostefanello/"><img alt="Linkedin" src="https://img.shields.io/badge/Profile-Linkedin-informational?style=for-the-badge&logo=linkedin&color=blue"></a>
+    <a href="https://www.linkedin.com/in/leonardostefanello/"><img alt="Linkedin" src="https://img.shields.io/badge/Profile-Linkedin-informational?style=for-the-badge&logo=linkedin&color=blue"></a>
     <a href="https://www.instagram.com/leonardo_basstef/"><img alt="Instagram" src="https://img.shields.io/badge/Follow%20Me-Instagram-informational?style=for-the-badge&logo=instagram&color=orange"></a>
     <a href="https://open.spotify.com/user/nfud6djzz8ruqxpfcdp0ioafb?si=75864361e1014faa"><img alt="Spotify" src="https://img.shields.io/badge/My%20Style-Spotify-informational?style=for-the-badge&logo=spotify&color=brightgreen"></a>
 </p>
