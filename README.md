@@ -10,7 +10,7 @@
 
 <h2 align='left'>📌 Sobre Mim / About Me</h2>
 
-**[BR]**
+**[PT-BR]**
 </br>
 • Estou estudando para me tornar um _**Desenvolvedor Fullstack**_, tenho maior interesse pela área de _Front-End_. A ideia de se tornar Fullstack surgiu não apenas porque amo tudo que contenha código, mas tambem porque acho importante ter um conhecimento geral. 🐶
 
@@ -20,7 +20,7 @@
 - 🎮 &nbsp; Quando estou livre gosto de jogar com os amigos e mesmo assim continuo aprimorando meus conhecimentos desenvolvendo mods/scripts para jogos e tambem me divertindo como artista 3D, programação não é só um trabalho para mim, mas sim uma paixão;
 </br>
 
-**[EN]**
+**[ENG]**
 </br>
 • I'm studying to become a _**Fullstack Developer**_, I am most interested in _Front-End_. The idea of becoming Fullstack came about not only because I love programming, but also because I think it's important to have a general knowledge. 🐶
 
