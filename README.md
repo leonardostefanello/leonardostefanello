@@ -12,12 +12,12 @@
 
 **[BR]**
 </br>
-• Estou estudando para me tornar um _**Desenvolvedor Fullstack**_, tenho maior interesse no _Frontend_. A ideia de se tornar Fullstack surgiu não apenas porque amo programação, mas tambem porque acho importante ter um conhecimento geral. 🐶
+• Estou estudando para me tornar um _**Desenvolvedor Fullstack**_, tenho maior interesse no _Frontend_. A ideia de se tornar Fullstack surgiu não apenas porque amo tudo que contenha código, mas tambem porque acho importante ter um conhecimento geral. 🐶
 
 - 🔭 &nbsp; Procurando um emprego;
-- 🌱 &nbsp; Cursando **Análise e Desenvolvimento de Sistemas** na Unisul _(Brasil)_;
+- 🌱 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** na Universidade do Sul de Santa Catarina _(UNISUL, Brasil)_;
 - 🔧 &nbsp; Maior parte dos meus projetos e testes que faço estão disponiveis em [Respositórios](https://github.com/leonardostefanello?tab=repositories);
-- 🎮 &nbsp; Quando estou livre gosto de jogar com os amigos mas tambem de continuar aprimorando meus conhecimentos, programação não é só um trabalho para mim, mas sim uma paixão;
+- 🎮 &nbsp; Quando estou livre gosto de jogar com os amigos e mesmo assim continuo aprimorando meus conhecimentos desenvolvendo mods/scripts para jogos e tambem me divertindo como artista 3D, programação não é só um trabalho para mim, mas sim uma paixão;
 </br>
 
 **[EN]**
@@ -25,9 +25,9 @@
 • I'm studying to become a _**Fullstack Developer**_, I am most interested in the _Frontend_. The idea of becoming Fullstack came about not only because I love programming, but also because I think it's important to have a general knowledge. 🐶
 
 - 🔭 &nbsp; Looking for a job;
-- 🌱 &nbsp; Studying **System Analysis and Development** at Unisul _(Brazil)_;
+- 🌱 &nbsp; Graduated in **System Analysis and Development** at University of Southern Santa Catarina _(UNISUL, Brazil)_;
 - 🔧 &nbsp; Most of my projects and tests that I do are available at [Repositories](https://github.com/leonardostefanello?tab=repositories);
-- 🎮 &nbsp; When I'm free I like to play with friends but also to keep improving my knowledge, programming is not just a job for me, but a passion;
+- 🎮 &nbsp; When I'm free I like to play with friends and even so I continue to improve my knowledge by developing mods/scripts for games and also having fun as a 3D artist, programming is not just a job for me, but a passion;
 </br>
 
 
