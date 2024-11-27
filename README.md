@@ -12,7 +12,7 @@
 
 **[PT-BR]**
 </br>
-• Estou estudando para me tornar um _**Desenvolvedor Fullstack**_, tenho maior interesse pela área de _Front-End_. A ideia de se tornar Fullstack surgiu não apenas porque amo tudo que contenha código, mas tambem porque acho importante ter um conhecimento geral. 🐶
+• Estudando para me tornar _**Desenvolvedor Fullstack**_, atualmente tenho maior interesse pela área de _Front-End_. 🐶
 
 - 🔭 &nbsp; Procurando por oportunidades;
 - 🌱 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** na Universidade do Sul de Santa Catarina _(UNISUL, Brasil)_;
@@ -22,7 +22,7 @@
 
 **[ENG]**
 </br>
-• I'm studying to become a _**Fullstack Developer**_, I am most interested in _Front-End_. The idea of becoming Fullstack came about not only because I love programming, but also because I think it's important to have a general knowledge. 🐶
+• Studying to become a _**Fullstack Developer**_, I am currently more interested in _Front-End_. 🐶
 
 - 🔭 &nbsp; Looking for opportunities;
 - 🌱 &nbsp; Graduated in **System Analysis and Development** at University of Southern Santa Catarina _(UNISUL, Brazil)_;
