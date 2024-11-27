@@ -48,7 +48,7 @@
 <h3 align='left'>💻 Sistema Operacional / Operational System</h3>
 <p aign="center">
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg"></a>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-BCBCBC.svg"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-999999.svg"></a>
 </p>
 
 <h3 align='left'>🔌 Linguagens / Languages</h3>
