@@ -14,20 +14,20 @@
 </br>
 • Estou estudando para me tornar um _**Desenvolvedor Fullstack**_, tenho maior interesse pela área de _Front-End_. A ideia de se tornar Fullstack surgiu não apenas porque amo tudo que contenha código, mas tambem porque acho importante ter um conhecimento geral. 🐶
 
-- 🔭 &nbsp; Procurando um emprego;
+- 🔭 &nbsp; Procurando por oportunidades;
 - 🌱 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** na Universidade do Sul de Santa Catarina _(UNISUL, Brasil)_;
 - 🔧 &nbsp; Maior parte dos meus projetos e testes que faço estão disponiveis em [Respositórios](https://github.com/leonardostefanello?tab=repositories);
-- 🎮 &nbsp; Quando estou livre gosto de jogar com os amigos e mesmo assim continuo aprimorando meus conhecimentos desenvolvendo mods/scripts para jogos e tambem me divertindo como artista 3D, programação não é só um trabalho para mim, mas sim uma paixão;
+- 🎮 &nbsp; Mesmo no tempo livre, continuo aprimorando meus conhecimentos desenvolvendo mods/scripts para jogos e tambem me divertindo como artista 3D, programação não é só um trabalho para mim, mas sim uma paixão;
 </br>
 
 **[ENG]**
 </br>
 • I'm studying to become a _**Fullstack Developer**_, I am most interested in _Front-End_. The idea of becoming Fullstack came about not only because I love programming, but also because I think it's important to have a general knowledge. 🐶
 
-- 🔭 &nbsp; Looking for a job;
+- 🔭 &nbsp; Looking for opportunities;
 - 🌱 &nbsp; Graduated in **System Analysis and Development** at University of Southern Santa Catarina _(UNISUL, Brazil)_;
 - 🔧 &nbsp; Most of my projects and tests that I do are available at [Repositories](https://github.com/leonardostefanello?tab=repositories);
-- 🎮 &nbsp; When I'm free I like to play with friends and even so I continue to improve my knowledge by developing mods/scripts for games and also having fun as a 3D artist, programming is not just a job for me, but a passion;
+- 🎮 &nbsp; Even on my free time, I continue to improve my knowledge by developing mods/scripts for games and also having fun as a 3D artist, programming is not just a job for me, but a passion;
 </br>
 
 
@@ -70,7 +70,6 @@
 <h3 align='left'>🧰 Ferramentas / Softwares / Tools</h3>
 <p aign="center">
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse IDE-2C2255.svg?logo=eclipseide&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
